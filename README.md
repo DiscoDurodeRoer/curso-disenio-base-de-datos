@@ -2,14 +2,10 @@
 
 Curso para aprender a como diseñar bases de datos con modelo entidad-relación, modelo relacional y normalización
 
-<<<<<<< HEAD
 ## Software usado
 
 Draw.io (web): https://app.diagrams.net/
 
-=======
-Draw.io (web): https://app.diagrams.net/
->>>>>>> 1cc45e063ceabe7ba54b20bd06488711b363d5a9
 Draw.io (app): https://www.drawio.com/ 
 
 ## Modelo Entidad relación
