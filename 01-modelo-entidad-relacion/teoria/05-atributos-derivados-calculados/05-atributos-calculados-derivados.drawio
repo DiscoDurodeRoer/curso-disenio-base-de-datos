@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1195" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LewjmLk6-g-xiO7OewWB-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;5. Atributos calculados o derivados&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-2" value="Los atributos calculados son aquellos atributos que derivan de otros atributos." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-3" value="Queremos registrar empleados en nuestra base de datos su DNI, nombre, fecha nacimiento, edad&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;y puesto.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="210" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-4" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-5" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="315" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="LewjmLk6-g-xiO7OewWB-7" target="LewjmLk6-g-xiO7OewWB-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-7" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="300" y="290" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=left;endArrow=none;endFill=0;" parent="1" source="LewjmLk6-g-xiO7OewWB-9" target="LewjmLk6-g-xiO7OewWB-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-9" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="190" y="290" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="LewjmLk6-g-xiO7OewWB-11" target="LewjmLk6-g-xiO7OewWB-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-11" value="puesto" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="415" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="LewjmLk6-g-xiO7OewWB-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-13" value="fecha nacimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="495" y="350" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="LewjmLk6-g-xiO7OewWB-15" target="LewjmLk6-g-xiO7OewWB-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="340" />
+              <mxPoint x="468" y="340" />
+              <mxPoint x="468" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-15" value="edad" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="290" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LewjmLk6-g-xiO7OewWB-16" value="No se almacenan fisicamente en la entidad." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="130" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

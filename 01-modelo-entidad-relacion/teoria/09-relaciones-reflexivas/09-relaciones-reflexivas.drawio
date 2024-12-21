@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1434" dy="-2416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-1" value="9. Relación reflexiva" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="3320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-2" value="A veces, una entidad puede relacionarse a si misma, siendo el inicio y el fin. Actua como una relación más." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="3370" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-3" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="3410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-4" value="Queremos registrar empleados en nuestra base de datos su DNI, nombre, fecha &lt;span style=&quot;background-color: initial;&quot;&gt;y puesto.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="37.5" y="3450" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-5" value="Un empleado puede tener a su cargo a varios empleados y un empleado solo puede tener un superior" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="3490" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-6" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Queremos%20registrar%20empleados%20en%20nuestra%20base%20de%20datos%20su%20DNI%2C%20nombre%2C%20fecha%20%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3By%20puesto.%20Cada%20empleado%20pertence%20a%20un%20departamento.%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%222130%22%20width%3D%22750%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="3580" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-7" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="108.75" y="3600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="ZMX15q2vTG2Ldi42ktcV-9" target="ZMX15q2vTG2Ldi42ktcV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-9" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="108.75" y="3540" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ZMX15q2vTG2Ldi42ktcV-11" target="ZMX15q2vTG2Ldi42ktcV-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="68.75" y="3620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-11" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="43.75" y="3540" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.796;entryY=0.011;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" source="ZMX15q2vTG2Ldi42ktcV-13" target="ZMX15q2vTG2Ldi42ktcV-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="198.75" y="3560" />
+              <mxPoint x="198.75" y="3600" />
+              <mxPoint x="188.75" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-13" value="puesto" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="178.75" y="3540" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ZMX15q2vTG2Ldi42ktcV-16" target="ZMX15q2vTG2Ldi42ktcV-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="3620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZMX15q2vTG2Ldi42ktcV-16" target="ZMX15q2vTG2Ldi42ktcV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-16" value="es responsable" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="275" y="3650" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-17" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="215" y="3590" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-18" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="3640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMX15q2vTG2Ldi42ktcV-19" value="(0,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="3650" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

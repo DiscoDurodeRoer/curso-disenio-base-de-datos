@@ -1,0 +1,83 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1195" dy="-363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iQRKBqqDqdivDJS8dype-1" value="6. Relaciones" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="1120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-2" value="Las relaciones permiten vincular dos entidades o más indicando como se relacionan entre ellas." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1170" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-3" value="Queremos registrar empleados en nuestra base de datos su DNI, nombre&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;y puesto.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="1330" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-4" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-5" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="105" y="1530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iQRKBqqDqdivDJS8dype-7" target="iQRKBqqDqdivDJS8dype-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-7" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="105" y="1470" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iQRKBqqDqdivDJS8dype-9" target="iQRKBqqDqdivDJS8dype-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-9" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1470" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-11" value="puesto" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1470" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-12" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="525" y="1530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iQRKBqqDqdivDJS8dype-14" target="iQRKBqqDqdivDJS8dype-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-14" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="525" y="1470" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-15" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="585" y="1470" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="iQRKBqqDqdivDJS8dype-15" target="iQRKBqqDqdivDJS8dype-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iQRKBqqDqdivDJS8dype-19" target="iQRKBqqDqdivDJS8dype-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iQRKBqqDqdivDJS8dype-19" target="iQRKBqqDqdivDJS8dype-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-19" value="pertenece" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-20" value="Dentro de la relación se usa un verbo que represente la relación entre ambas." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1210" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQRKBqqDqdivDJS8dype-21" value="Las relaciones pueden tener atributos." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1250" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MJSNhLXUY-F0ftLnA1j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="iQRKBqqDqdivDJS8dype-11" target="iQRKBqqDqdivDJS8dype-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDsQ1RQDzA3_YuYp5ee6-2" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Cada empleado pertenece a un departamento.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1410" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dDsQ1RQDzA3_YuYp5ee6-3" value="De los departamentos, queremos saber su código y su nombre." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="1370" width="360" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
