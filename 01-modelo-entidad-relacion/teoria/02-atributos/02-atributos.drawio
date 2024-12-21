@@ -1,0 +1,63 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1434" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-1" value="2. Atributos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-2" value="Los atributos se utilizan para detallar propiedades a las entidades. Una entidad puede tener varios atributos." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1030" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-3" value="Queremos registrar empleados en nuestra base de datos su DNI, nombre, correo electronico y puesto." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="-870" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-4" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-910" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-5" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="lPI9IJ0gwrGUAXG5nq_H-7" target="lPI9IJ0gwrGUAXG5nq_H-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-7" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-790" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="lPI9IJ0gwrGUAXG5nq_H-9" target="lPI9IJ0gwrGUAXG5nq_H-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="-710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-9" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="297.5" y="-790" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="lPI9IJ0gwrGUAXG5nq_H-11" target="lPI9IJ0gwrGUAXG5nq_H-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="-710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-11" value="puesto" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="490" y="-790" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-12" value="Si uno o varios atributos identifican a una entidad, este estará subrayado." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-990" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-13" value="Si alguno de ellos no debe repetirse pero no lo identifica, significa que es un atributo unico, se subraya pero con puntitos." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-950" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-14" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;email&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="425" y="-790" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPI9IJ0gwrGUAXG5nq_H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.925;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="lPI9IJ0gwrGUAXG5nq_H-14" target="lPI9IJ0gwrGUAXG5nq_H-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

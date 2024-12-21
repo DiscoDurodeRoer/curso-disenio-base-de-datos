@@ -1,0 +1,392 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1434" dy="-3516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-1" value="10. Generalización / Especialización" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="4440" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-2" value="La generalización y especialización consiste en dividir una entidad en diferentes entidades que comparten atributos." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="4490" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-3" value="Combinando los criterios, tenemos diferentes tipos de generalización:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="4890" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-4" value="Las entidades hijas pueden tener sus propios atributos." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="4568" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="6560.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-6" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="6510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-7" value="Administrativo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="166.25" y="6640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-8" value="Directivo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="6640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Queremos%20registrar%20empleados%20en%20nuestra%20base%20de%20datos%20su%20DNI%2C%20nombre%2C%20fecha%20%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3By%20puesto.%20Cada%20empleado%20pertence%20a%20un%20departamento.%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%222130%22%20width%3D%22750%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="6490" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-10" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="6450" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-12" target="B4-sHTLHpwa_sDcLLoFd-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="6530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-12" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="240" y="6450" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="6510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-14" value="&lt;b&gt;- Solapada y parcial&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="38.75" y="4930" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-15" value="&lt;b&gt;- Solapada y total&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="38.75" y="5530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-16" value="&lt;b&gt;- Exclusiva y parcial&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="6130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-17" value="- Exclusiva y total" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="38.75" y="6730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-20" target="B4-sHTLHpwa_sDcLLoFd-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-20" target="B4-sHTLHpwa_sDcLLoFd-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-20" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="323.75" y="6570" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-22" target="B4-sHTLHpwa_sDcLLoFd-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-22" value="anios_exp" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="6590" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-23" value="Se clasifican en dos criteros:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="38.75" y="4610" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-24" value="- &lt;b&gt;Exclusividad&lt;/b&gt;: Si una entidad puede pertenecer a más de una entidad hija o no." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="4650" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-25" value="- &lt;b&gt;Cobertura&lt;/b&gt;: Si todas las entidades de la entidad padre están representadas en las entidades hijas o no" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="4770" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-26" value="- &lt;b&gt;Exclusiva&lt;/b&gt;: Una entidad solo puede pertenecer a una entidad hija especifica." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="78.75" y="4690" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-27" value="- &lt;b&gt;Solapada&lt;/b&gt;: Una entidad puede pertenecer a una o mas entidades hijas." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="4730" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-28" value="- &lt;b&gt;Total&lt;/b&gt;: Todas las entidades de la entidad padre estan cubiertas en las entidades hijas." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="4810" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-29" value="- &lt;b&gt;Parcial&lt;/b&gt;: Todas las entidades de la entidad padre no estan cubiertas en las entidades hijas." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="4850" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-30" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Una entidad puede pertenecer a más de una entidad hija.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="4970" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- No todas las entidades&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;de la entidad padre&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;están representadas&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;en las entidades hijas.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="5010" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-32" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="5050" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-33" value="Queremos registrar empleados en nuestra base de datos su DNI y nombre&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="38.75" y="5090" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-34" value="Los empleados pueden tener el puesto de administrativos o directivos.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="5130" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-35" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;De los administrativos queremos saber los años de experiencia.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="5210" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Un administrativo puede ser un directivo y viceversa.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="5170" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-37" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Una entidad puede pertenecer a más de una entidad hija.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="5570" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-38" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Todas las entidades&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;de la entidad padre&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;están representadas&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;en las entidades hijas.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="5610" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-39" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="5320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-40" value="Administrativo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="5450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-41" value="Directivo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="441.25" y="5450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-42" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Queremos%20registrar%20empleados%20en%20nuestra%20base%20de%20datos%20su%20DNI%2C%20nombre%2C%20fecha%20%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3By%20puesto.%20Cada%20empleado%20pertence%20a%20un%20departamento.%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%222130%22%20width%3D%22750%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="238.75" y="5300" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-43" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="5260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-45" target="B4-sHTLHpwa_sDcLLoFd-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="266.25" y="5340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-45" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="241.25" y="5260" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="336.25" y="5320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-49" target="B4-sHTLHpwa_sDcLLoFd-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-49" target="B4-sHTLHpwa_sDcLLoFd-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-49" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="325" y="5380" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-39" target="B4-sHTLHpwa_sDcLLoFd-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-52" target="B4-sHTLHpwa_sDcLLoFd-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-52" value="anios_exp" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="5400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" target="B4-sHTLHpwa_sDcLLoFd-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="6570.000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-54" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="5650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-55" value="Queremos registrar empleados en nuestra base de datos su DNI y nombre&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="5690" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-56" value="Los empleados solo pueden tener el puesto de administrativos o directivos.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="5730" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-57" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;De los administrativos queremos saber los años de experiencia.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="38.12" y="5810" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-58" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Un administrativo puede ser un directivo y viceversa.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="5770" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-59" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Una entidad solo puede pertenecer a una entidad hija.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="78.75" y="6170" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-60" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- No todas las entidades&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;de la entidad padre&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;están representadas&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;en las entidades hijas.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="6210" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-61" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="6250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-62" value="Queremos registrar empleados en nuestra base de datos su DNI y nombre&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="38.74999999999999" y="6290" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-63" value="Los empleados pueden tener el puesto de administrativos o directivos.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="38.74999999999999" y="6330" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-64" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;De los administrativos queremos saber los años de experiencia.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="6410" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Un administrativo no puede ser un directivo y viceversa.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="38.74999999999999" y="6370" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-66" value="" style="curved=1;endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298.75" y="6599" as="sourcePoint" />
+            <mxPoint x="406.25" y="6599" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405.75" y="6650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-67" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Una entidad solo puede pertenecer a una entidad hija.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="78.75" y="6770" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-68" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Todas las entidades&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;de la entidad padre&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;están representadas&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;en las entidades hijas.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="78.75" y="6810" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-69" value="Por ejemplo," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="41.24999999999999" y="6850" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-70" value="Queremos registrar empleados en nuestra base de datos su DNI y nombre&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="6890" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-71" value="Los empleados solo pueden tener el puesto de administrativos o directivos.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="6930" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-72" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;De los administrativos queremos saber los años de experiencia.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="41.24999999999999" y="7010" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Un administrativo no puede ser un directivo y viceversa.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="39.99999999999999" y="6970" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-74" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="5910" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-75" value="Administrativo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="6040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-76" value="Directivo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="441.25" y="6040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-77" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Queremos%20registrar%20empleados%20en%20nuestra%20base%20de%20datos%20su%20DNI%2C%20nombre%2C%20fecha%20%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3By%20puesto.%20Cada%20empleado%20pertence%20a%20un%20departamento.%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%222130%22%20width%3D%22750%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="238.75" y="5890" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-78" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="5850" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-80" target="B4-sHTLHpwa_sDcLLoFd-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="266.25" y="5930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-80" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="241.25" y="5850" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="336.25" y="5910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-84" target="B4-sHTLHpwa_sDcLLoFd-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-84" target="B4-sHTLHpwa_sDcLLoFd-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-84" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="325" y="5970" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-86" target="B4-sHTLHpwa_sDcLLoFd-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-86" value="anios_exp" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="5990" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="348.75" y="5960" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="5950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="5950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-87" target="B4-sHTLHpwa_sDcLLoFd-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="5980" />
+              <mxPoint x="354" y="5980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-90" value="Empleado" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="7120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-91" value="Administrativo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="166.25" y="7250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-92" value="Directivo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="7250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-93" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Queremos%20registrar%20empleados%20en%20nuestra%20base%20de%20datos%20su%20DNI%2C%20nombre%2C%20fecha%20%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3By%20puesto.%20Cada%20empleado%20pertence%20a%20un%20departamento.%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%222130%22%20width%3D%22750%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="7100" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-94" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="7060" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-96" target="B4-sHTLHpwa_sDcLLoFd-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="7140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-96" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="240" y="7060" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-94" target="B4-sHTLHpwa_sDcLLoFd-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="7120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-100" target="B4-sHTLHpwa_sDcLLoFd-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-100" target="B4-sHTLHpwa_sDcLLoFd-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-100" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="323.75" y="7180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-102" target="B4-sHTLHpwa_sDcLLoFd-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-102" value="anios_exp" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="7200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-103" value="" style="curved=1;endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298.75" y="7209" as="sourcePoint" />
+            <mxPoint x="406.25" y="7209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405.75" y="7260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-104" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="350" y="7170" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-104" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355.25" y="7160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355.25" y="7160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="B4-sHTLHpwa_sDcLLoFd-104" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355.25" y="7190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355.25" y="7190" />
+              <mxPoint x="355.25" y="7190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4-sHTLHpwa_sDcLLoFd-107" value="&lt;span style=&quot;&quot;&gt;Es una relación jerarquica, cuanto mas hacia abajo, mas se especializa y cuanto más hacia arriba&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;más se generaliza.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="4530" width="650" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
