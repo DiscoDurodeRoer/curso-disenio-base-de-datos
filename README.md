@@ -51,6 +51,15 @@ Todo coche tiene siempre asignado un determinado garaje que no puede cambiar. De
 
 Cada reserva se realiza en una determinada agencia.
 
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-1/solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/NFb9eX9s3ZY)
+
 #### Ejercicio 2
 
 La coordinadora nacional de ONGs desea mantener una base de datos de las asociaciones de este tipo que existen en nuestro pais. 
@@ -77,6 +86,15 @@ De cada proyecto se desea almacenar su número de identificación dentro de la a
 
 Un proyecto se compone a su vez de subproyectos.
 
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-2/solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/3SFKqUnN4Cc)
+
 #### Ejercicio 3
 
 Se pretende diseñar una base de datos sobre los servicios de urgencia de los hospitales.
@@ -100,6 +118,15 @@ Se necesitará registrar las guardias que hace cada personal sanitario en el hos
 El personal sanitario formará parte de un grupo. Interesa saber el puesto que ocupa en ese grupo. Cada grupo tiene un código de grupo y nombre. Cada grupo puede estar formado por muchos sanitarios, como mínimo por uno.
 
 Un conductor de ambulancia siempre conduce la misma ambulancia y una ambulancia siempre es conducida por el mismo conductor. Una ambulancia puede que no tenga asignado conductor. De al ambulancia sabemos su matrícula, tipo de ambulancia y instrumental médico que posee.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-2/solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/Lwb89xS8Emo)
   
 #### Ejercicio 4
 
@@ -123,6 +150,15 @@ En la biblioteca hay varios empleados (necesitamos almacenar algunos de sus dato
 Unos se ocupan del mantenimiento de los armarios (de cada uno de estos tenemos que conocer qué tipo de función de mantenimiento tiene asignada), cuando realizan algún arreglo a un armario hay que anotar una breve descripción de lo que se le ha hecho y cuándo.
 
 Otros empleados realizan solo tareas de gestión como la elaboración de las tarjetas de acceso (de estos interesa su titulación) y queremos conocer qué empleado ha sido el que ha elaborado cada una de las tarjetas.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./ejercicio-4/solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/ZZ2dKyzIjic)
 
 #### Ejercicio 5
 
@@ -159,4 +195,13 @@ De cada sala se desea conocer la capacidad y medios que dispone para facilitar l
 
 De cada partida, se registran todos los movimientos que la componen, la identificación de movimiento se establece en base a un numero de orden dentro de cada partida.
 
-Para cada movimiento se guardan la jugada y un breve comentario de un experto
+Para cada movimiento se guardan la jugada y un breve comentario de un experto.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./ejercicio-5/solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/z5orMNEL8p0)
