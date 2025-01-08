@@ -21,3 +21,12 @@ Se necesitará registrar las guardias que hace cada personal sanitario en el hos
 El personal sanitario formará parte de un grupo. Interesa saber el puesto que ocupa en ese grupo. Cada grupo tiene un código de grupo y nombre. Cada grupo puede estar formado por muchos sanitarios, como mínimo por uno.
 
 Un conductor de ambulancia siempre conduce la misma ambulancia y una ambulancia siempre es conducida por el mismo conductor. Una ambulancia puede que no tenga asignado conductor. De al ambulancia sabemos su matrícula, tipo de ambulancia y instrumental médico que posee.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/Lwb89xS8Emo)

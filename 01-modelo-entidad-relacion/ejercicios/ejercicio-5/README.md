@@ -33,4 +33,13 @@ De cada sala se desea conocer la capacidad y medios que dispone para facilitar l
 
 De cada partida, se registran todos los movimientos que la componen, la identificación de movimiento se establece en base a un numero de orden dentro de cada partida.
 
-Para cada movimiento se guardan la jugada y un breve comentario de un experto
+Para cada movimiento se guardan la jugada y un breve comentario de un experto.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/z5orMNEL8p0)

@@ -17,3 +17,12 @@ No se mantienen los datos de reservas anteriores.
 Todo coche tiene siempre asignado un determinado garaje que no puede cambiar. De cada coche se requiere la matricula, el modelo, el color y la marca.
 
 Cada reserva se realiza en una determinada agencia.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/NFb9eX9s3ZY)

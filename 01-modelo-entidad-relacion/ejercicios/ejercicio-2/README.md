@@ -23,3 +23,12 @@ Las asociaciones llevan a cabo proyectos a los que están asignados sus trabajad
 De cada proyecto se desea almacenar su número de identificación dentro de la asociación, en qué pais se lleva a cabo y en que zona de este, así como el objetivo que persigue y el numero de beneficiarios a los que afecta. 
 
 Un proyecto se compone a su vez de subproyectos.
+
+<details>
+  <summary>Solución</summary>
+  
+  ![Descripción de la imagen](./solucion.png)
+  
+</details>
+
+[Video resolviendo el ejercicio](https://youtu.be/3SFKqUnN4Cc)
