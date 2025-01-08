@@ -1,0 +1,1179 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1886" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-1" value="Hotel" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-2" value="Participante" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-3" value="Jugador" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="270" y="3200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-4" value="Arbitro" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="460" y="3200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-5" target="DC3tzMpuyOt5jRQYJL4G-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="3170" />
+              <mxPoint x="675" y="3260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-5" value="Pais" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="3150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-6" value="Partida" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="380" y="3400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-7" value="Movimiento" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="3400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-8" value="Sala" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-9" target="DC3tzMpuyOt5jRQYJL4G-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-9" target="DC3tzMpuyOt5jRQYJL4G-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-9" value="envia" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="700" y="3045" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-10" target="DC3tzMpuyOt5jRQYJL4G-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-10" target="DC3tzMpuyOt5jRQYJL4G-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-10" value="aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="115" y="3045" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-11" target="DC3tzMpuyOt5jRQYJL4G-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-11" target="DC3tzMpuyOt5jRQYJL4G-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-11" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="550" y="3405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-12" target="DC3tzMpuyOt5jRQYJL4G-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-12" target="DC3tzMpuyOt5jRQYJL4G-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-12" value="dispone" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="110" y="3290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-13" target="DC3tzMpuyOt5jRQYJL4G-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="3360" />
+              <mxPoint x="405" y="3360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-13" target="DC3tzMpuyOt5jRQYJL4G-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-13" value="juega" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="285" y="3285" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-14" target="DC3tzMpuyOt5jRQYJL4G-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-14" target="DC3tzMpuyOt5jRQYJL4G-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-14" value="arbitra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="475" y="3285" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-15" target="DC3tzMpuyOt5jRQYJL4G-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-15" value="representa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="695" y="3240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-16" target="DC3tzMpuyOt5jRQYJL4G-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-16" value="color" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="375" y="3285" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-17" target="DC3tzMpuyOt5jRQYJL4G-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="3020" />
+              <mxPoint x="410" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-17" value="n_socio" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="255" y="2970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-18" target="DC3tzMpuyOt5jRQYJL4G-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="3030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-18" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="2970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="3040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="3020" />
+              <mxPoint x="410" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-20" value="direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="395" y="2970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-21" target="DC3tzMpuyOt5jRQYJL4G-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="3165" />
+              <mxPoint x="90" y="3200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-21" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="20" y="3150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-22" target="DC3tzMpuyOt5jRQYJL4G-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="3235" />
+              <mxPoint x="90" y="3200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-22" value="direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="3220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-23" target="DC3tzMpuyOt5jRQYJL4G-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="3200" />
+              <mxPoint x="80" y="3200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-23" value="telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="3185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-24" target="DC3tzMpuyOt5jRQYJL4G-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-24" value="nivel" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="220" y="3160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-25" target="DC3tzMpuyOt5jRQYJL4G-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-25" value="entradas" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="220" y="3340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-26" target="DC3tzMpuyOt5jRQYJL4G-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-26" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="10" y="3405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-27" target="DC3tzMpuyOt5jRQYJL4G-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-27" value="capacidad" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="3480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-28" target="DC3tzMpuyOt5jRQYJL4G-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-28" value="medios" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="170" y="3480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-29" target="DC3tzMpuyOt5jRQYJL4G-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-29" target="DC3tzMpuyOt5jRQYJL4G-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-29" value="celebra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="250" y="3405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-52" target="DC3tzMpuyOt5jRQYJL4G-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-52" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="340" y="3470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-55" target="DC3tzMpuyOt5jRQYJL4G-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-55" value="movimientos" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="697.5" y="3465" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="3420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="3390" />
+              <mxPoint x="521" y="3390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-56" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="740" y="3330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="DC3tzMpuyOt5jRQYJL4G-57" target="DC3tzMpuyOt5jRQYJL4G-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DC3tzMpuyOt5jRQYJL4G-57" value="comentario" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="650" y="3330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-1" target="DC3tzMpuyOt5jRQYJL4G-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-1" target="DC3tzMpuyOt5jRQYJL4G-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-1" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="370.26" y="3123" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="405" y="3096" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-4" value="" style="curved=1;endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356.24" y="3139" as="sourcePoint" />
+            <mxPoint x="463.74" y="3139" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="463.24" y="3190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=1.058;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="3094" as="sourcePoint" />
+            <mxPoint x="409.6999999999998" y="3080.3199999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-3" target="eA0csAcU9w1dY7MmfF_m-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="3110" as="sourcePoint" />
+            <mxPoint x="410" y="3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-13" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="465" y="3066" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-14" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="740" y="3120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-15" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="3010" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-16" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="3140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-17" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="685" y="3190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-18" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="3280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-19" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-20" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-21" value="Ex" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="3278" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-22" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-23" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="305" y="3028" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-24" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="125" y="3010" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-25" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="3240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-26" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="455" y="3370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-27" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="3285" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-28" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="475" y="3428" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-29" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="635" y="3428" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-30" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="565" y="3435" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-31" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="3418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-32" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="3418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-33" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="3435" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-35" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="3295" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-36" value="n_clubes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="3091" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-36" target="DC3tzMpuyOt5jRQYJL4G-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-42" value="Campeonato" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="2900" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-45" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="495" y="2905" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-46" target="eA0csAcU9w1dY7MmfF_m-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="3005" />
+              <mxPoint x="630" y="2940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-46" target="DC3tzMpuyOt5jRQYJL4G-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="3030" />
+              <mxPoint x="435" y="3030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-46" value="participa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-45" target="eA0csAcU9w1dY7MmfF_m-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-51" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="580" y="2940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-52" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="3000" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-53" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2960" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-54" target="eA0csAcU9w1dY7MmfF_m-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="3005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-54" value="tipo" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="487.5" y="2960" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-57" target="DC3tzMpuyOt5jRQYJL4G-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692" y="3130" />
+              <mxPoint x="715" y="3130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-57" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="665" y="3077" width="55" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-59" target="DC3tzMpuyOt5jRQYJL4G-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="3130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-59" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;nombre&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="605" y="3110" width="57.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-62" target="DC3tzMpuyOt5jRQYJL4G-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="3085" />
+              <mxPoint x="100" y="3060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-62" value="fecha_inicio" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="15" y="3075" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-63" target="DC3tzMpuyOt5jRQYJL4G-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="3029" />
+              <mxPoint x="100" y="3060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-63" value="fecha_fin" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="3018" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-67" target="DC3tzMpuyOt5jRQYJL4G-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-67" value="jornada" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="422.5" y="3470" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-70" target="eA0csAcU9w1dY7MmfF_m-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="3520" />
+              <mxPoint x="455" y="3520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-70" value="anio" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="3530" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-71" target="eA0csAcU9w1dY7MmfF_m-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="3520" />
+              <mxPoint x="455" y="3520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-71" value="mes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="437.6300000000001" y="3530" width="34.74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-72" target="eA0csAcU9w1dY7MmfF_m-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="3520" />
+              <mxPoint x="455" y="3520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-72" value="dia" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="482.5" y="3530" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-78" target="DC3tzMpuyOt5jRQYJL4G-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="3020" />
+              <mxPoint x="410" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-78" value="telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="295" y="2945" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-83" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="3370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-84" value="(2,2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="3240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-86" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3285" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-87" value="Se desea realizar una base de datos relacionada a la gestión de un torneo de ajedrez:" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1080" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-88" value="En el campeonato participan jugadores y árbitros, de ambos se requiere conocer el numero de asociado, nombre, dirección, teléfono de contacto &#xa;y campeonatos en los que ha participado (como jugador o arbitro)." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1045" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-89" value="De los jugadores se precisa ademas el nivel de juego en una escala de 1 a 10." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1000" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-90" value="Ningún arbitro puede participar como jugador." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-960" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-91" value="Todo jugador y arbitro es enviado por un único pais." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-880" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Los países envían al campeonato un conjunto de jugadores y árbitros, aunque no todos los países envían participantes.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-920" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-93" value="Un país puede ser representado por otro pais" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-840" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-94" value="Cada país se identifica por un numero correlativo según su orden alfabético e interesa conocer ademas su nombre,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;el numero de clubes de ajedrez&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;existentes en el mismo.&lt;/span&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-805" width="810" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-96" value="Cada partido se identifica por un numero correlativo, la juegan dos jugadores y la arbitra un arbitro." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-760" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-97" value="Interesa registrar las partidas que juega cada jugador y el color (blancas o negras) con el que&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;juega.&lt;/span&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-720" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-98" value="Todo participante participa en al menos una partida." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-680" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-99" value="Tanto jugadores como árbitros se alojan en hoteles en los que se desarrollan las partidas, se desea conocer en que hotel y en que fechas se ha &#xa;alojado cada uno de los participantes." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-645" width="790" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-100" value="Los participantes no tienen porque alojarse en un hotel." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-600" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-101" value="De cada hotel se desea conocer el nombre, dirección y telefono." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-560" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-102" value="El campeonato se desarrolla a lo largo de una serie de jornadas (año, mes, día)" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-520" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-103" value="Cada partida se celebra en una de las salas de los hoteles, se desea conocer el numero de entradas vendidas en la sala para cada&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;partida.&lt;/span&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-480" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-104" value="De cada sala se desea conocer la capacidad y medios que dispone para facilitar la transmisión de los&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;encuentros.&lt;/span&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-440" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-105" value="De cada partida, se registran todos los movimientos que la componen, la identificación de movimiento se establece en base a un numero de orden&amp;nbsp;&lt;div&gt;dentro de cada partida.&lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-405" width="810" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-106" value="Para cada movimiento se guardan la jugada y un breve comentario de un experto." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-360" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-107" value="En el campeonato participan jugadores y árbitros, de ambos se requiere conocer el numero de asociado, nombre, dirección, teléfono de contacto &#xa;y campeonatos en los que ha participado (como jugador o arbitro)." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-242" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-108" value="De los jugadores se precisa ademas el nivel de juego en una escala de 1 a 10." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-197" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-109" value="Ningún arbitro puede participar como jugador." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-157" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-146" value="Participante" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="215" y="23" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-147" value="Jugador" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="125" y="183" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-148" value="Arbitro" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="315" y="183" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-152" target="eA0csAcU9w1dY7MmfF_m-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="3" />
+              <mxPoint x="265" y="3" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-152" value="n_socio" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-47" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-154" target="eA0csAcU9w1dY7MmfF_m-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-154" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="185" y="-47" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-156" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="23" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="3" />
+              <mxPoint x="265" y="3" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-156" value="direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-47" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-158" target="eA0csAcU9w1dY7MmfF_m-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-158" value="nivel" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="75" y="143" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-161" target="eA0csAcU9w1dY7MmfF_m-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-161" target="eA0csAcU9w1dY7MmfF_m-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-161" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="225.26" y="106" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-162" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="79" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-163" value="" style="curved=1;endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211.24" y="121.99999999999977" as="sourcePoint" />
+            <mxPoint x="318.74" y="121.99999999999977" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="318.24" y="173" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=1.058;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-162" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="77" as="sourcePoint" />
+            <mxPoint x="264.6999999999998" y="63.319999999999936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-162" target="eA0csAcU9w1dY7MmfF_m-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="93" as="sourcePoint" />
+            <mxPoint x="265" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-170" value="Campeonato" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="435" y="-117" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-171" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-112" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-174" target="eA0csAcU9w1dY7MmfF_m-170" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="-12" />
+              <mxPoint x="485" y="-77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-174" target="eA0csAcU9w1dY7MmfF_m-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="13" />
+              <mxPoint x="290" y="13" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-174" value="participa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="375" y="-27" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-171" target="eA0csAcU9w1dY7MmfF_m-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-176" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="-77" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-177" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="305" y="-17" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-178" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385" y="-57" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-180" target="eA0csAcU9w1dY7MmfF_m-174" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="-12" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-180" value="tipo" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="342.5" y="-57" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-183" target="eA0csAcU9w1dY7MmfF_m-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="3" />
+              <mxPoint x="265" y="3" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-183" value="telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-72" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-185" value="Todo jugador y arbitro es enviado por un único pais." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="35" y="320" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-186" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Los países envían al campeonato un conjunto de jugadores y árbitros, aunque no todos los países envían participantes.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="280" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-187" value="Un país puede ser representado por otro pais" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="360" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-188" value="Cada país se identifica por un numero correlativo según su orden alfabético e interesa conocer ademas su nombre,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;el numero de clubes de ajedrez&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;existentes en el mismo.&lt;/span&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="395" width="810" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-189" value="Participante" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-192" target="eA0csAcU9w1dY7MmfF_m-198" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="610" />
+              <mxPoint x="415" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-192" value="Pais" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="430" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-195" target="eA0csAcU9w1dY7MmfF_m-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-195" target="eA0csAcU9w1dY7MmfF_m-192" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-195" value="envia" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="485" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-198" target="eA0csAcU9w1dY7MmfF_m-192" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-198" value="representa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="435" y="680" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-209" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="205" y="506" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-210" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-211" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-212" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="580" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-213" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="425" y="630" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-214" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-216" value="n_clubes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="520" y="531" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-216" target="eA0csAcU9w1dY7MmfF_m-192" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-225" target="eA0csAcU9w1dY7MmfF_m-192" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="570" />
+              <mxPoint x="455" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-225" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="405" y="517" width="55" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-227" target="eA0csAcU9w1dY7MmfF_m-192" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-227" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;nombre&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="345" y="550" width="57.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-229" value="Cada partido se identifica por un numero correlativo, la juegan dos jugadores y la arbitra un arbitro." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="760" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-230" value="Interesa registrar las partidas que juega cada jugador y el color (blancas o negras) con el que&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;juega.&lt;/span&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="800" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-231" value="Todo participante participa en al menos una partida." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-232" value="Participante" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="337.5" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-233" value="Jugador" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-234" value="Arbitro" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="437.5" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-235" value="Partida" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="1240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-239" target="eA0csAcU9w1dY7MmfF_m-235" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297.5" y="1200" />
+              <mxPoint x="382.5" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-239" target="eA0csAcU9w1dY7MmfF_m-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-239" value="juega" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="1125" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-242" target="eA0csAcU9w1dY7MmfF_m-234" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-242" target="eA0csAcU9w1dY7MmfF_m-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-242" value="arbitra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="452.5" y="1125" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-244" target="eA0csAcU9w1dY7MmfF_m-239" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-244" value="color" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="1125" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-252" target="eA0csAcU9w1dY7MmfF_m-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-252" value="nivel" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="197.5" y="1000" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-259" target="eA0csAcU9w1dY7MmfF_m-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-259" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="317.5" y="1310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-262" target="eA0csAcU9w1dY7MmfF_m-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-262" target="eA0csAcU9w1dY7MmfF_m-234" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-262" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="347.76" y="963" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-263" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="382.5" y="936" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-264" value="" style="curved=1;endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333.74" y="978.9999999999998" as="sourcePoint" />
+            <mxPoint x="441.24" y="978.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440.74" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=1.058;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-263" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.5" y="934" as="sourcePoint" />
+            <mxPoint x="387.1999999999998" y="920.3199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-263" target="eA0csAcU9w1dY7MmfF_m-262" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.5" y="950" as="sourcePoint" />
+            <mxPoint x="387.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-269" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="497.5" y="1080" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-270" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="432.5" y="1210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-271" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="517.5" y="1125" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-293" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="1210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-294" value="(2,2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="242.5" y="1080" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-295" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="217.5" y="1125" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-296" value="Tanto jugadores como árbitros se alojan en hoteles en los que se desarrollan las partidas, se desea conocer en que hotel y en que fechas se ha &#xa;alojado cada uno de los participantes." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="37.5" y="1360" width="790" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-297" value="Los participantes no tienen porque alojarse en un hotel." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="37.5" y="1405" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-298" value="De cada hotel se desea conocer el nombre, dirección y telefono." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="37.5" y="1445" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-299" value="Hotel" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-300" value="Participante" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="515" y="1530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-304" target="eA0csAcU9w1dY7MmfF_m-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-304" target="eA0csAcU9w1dY7MmfF_m-299" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-304" value="aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1535" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-312" target="eA0csAcU9w1dY7MmfF_m-299" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="1655" />
+              <mxPoint x="245" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-312" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-314" target="eA0csAcU9w1dY7MmfF_m-299" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="1725" />
+              <mxPoint x="245" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-314" value="direccion" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-316" target="eA0csAcU9w1dY7MmfF_m-299" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="1690" />
+              <mxPoint x="235" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-316" value="telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-326" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1640" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-327" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1518" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-328" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1500" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-331" target="eA0csAcU9w1dY7MmfF_m-304" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="1575" />
+              <mxPoint x="255" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-331" value="fecha_inicio" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1565" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-333" target="eA0csAcU9w1dY7MmfF_m-304" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="1519" />
+              <mxPoint x="255" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-333" value="fecha_fin" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1508" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-337" value="El campeonato se desarrolla a lo largo de una serie de jornadas (año, mes, día)" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="37.5" y="1800" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-339" value="Partida" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="287.5" y="1870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-342" target="eA0csAcU9w1dY7MmfF_m-339" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-342" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-346" target="eA0csAcU9w1dY7MmfF_m-339" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-346" value="jornada" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1940" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-348" target="eA0csAcU9w1dY7MmfF_m-346" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322.5" y="1990" />
+              <mxPoint x="362.5" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-348" value="anio" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="307.5" y="2000" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-350" target="eA0csAcU9w1dY7MmfF_m-346" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="362.5" y="1990" />
+              <mxPoint x="362.5" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-350" value="mes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="345.1300000000001" y="2000" width="34.74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-352" target="eA0csAcU9w1dY7MmfF_m-346" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407.5" y="1990" />
+              <mxPoint x="362.5" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-352" value="dia" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="2000" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-353" value="Cada partida se celebra en una de las salas de los hoteles, se desea conocer el numero de entradas vendidas en la sala para cada&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;partida.&lt;/span&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2080" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-354" value="De cada sala se desea conocer la capacidad y medios que dispone para facilitar la transmisión de los&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;encuentros.&lt;/span&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2120" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-355" value="Hotel" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="265" y="2180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-357" value="Partida" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-358" value="Sala" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="265" y="2400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-361" target="eA0csAcU9w1dY7MmfF_m-355" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eA0csAcU9w1dY7MmfF_m-361" target="eA0csAcU9w1dY7MmfF_m-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-361" value="dispone" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="275" y="2290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-376" target="eA0csAcU9w1dY7MmfF_m-385" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-376" value="entradas" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="385" y="2340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-378" target="eA0csAcU9w1dY7MmfF_m-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-378" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="175" y="2405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-379" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-380" target="eA0csAcU9w1dY7MmfF_m-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-380" value="capacidad" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="225" y="2480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-381" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-382" target="eA0csAcU9w1dY7MmfF_m-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-382" value="medios" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="335" y="2480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-383" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-385" target="eA0csAcU9w1dY7MmfF_m-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-385" target="eA0csAcU9w1dY7MmfF_m-357" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-385" value="celebra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="415" y="2405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-391" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="2220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-392" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="2370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-393" value="Ex" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="2278" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-395" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="495" y="2418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-396" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="365" y="2418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-397" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="2435" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-398" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="355" y="2295" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-404" value="De cada partida, se registran todos los movimientos que la componen, la identificación de movimiento se establece en base a un numero de orden&amp;nbsp;&lt;div&gt;dentro de cada partida.&lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2560" width="810" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-405" value="Para cada movimiento se guardan la jugada y un breve comentario de un experto." style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2605" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-406" value="Partida" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="137.5" y="2720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-407" value="Movimiento" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="447.5" y="2720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-410" target="eA0csAcU9w1dY7MmfF_m-407" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-409" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-410" target="eA0csAcU9w1dY7MmfF_m-406" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-410" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="307.5" y="2725" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-414" target="eA0csAcU9w1dY7MmfF_m-407" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-414" value="movimientos" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="455" y="2785" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-415" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-416" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.5" y="2740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527.5" y="2710" />
+              <mxPoint x="278.5" y="2710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-416" value="codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="497.5" y="2650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-417" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="eA0csAcU9w1dY7MmfF_m-418" target="eA0csAcU9w1dY7MmfF_m-407" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-418" value="comentario" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="2650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-420" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="232.5" y="2748" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-421" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="392.5" y="2748" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-422" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="322.5" y="2755" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eA0csAcU9w1dY7MmfF_m-425" value="Resultado final:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2840" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qslSZFLUcDYb2nG_dYqM-1" value="ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="2710" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
