@@ -29,7 +29,7 @@ Draw.io (app): https://www.drawio.com/
 
 ### Ejercicios
 
-[Video completo]()
+[Video completo](https://youtu.be/_OXqqOFKNb4)
 
 #### Ejercicio 1
 
