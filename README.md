@@ -122,7 +122,7 @@ Un conductor de ambulancia siempre conduce la misma ambulancia y una ambulancia 
 <details>
   <summary>Solución</summary>
   
-  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-2/solucion.png)
+  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-3/solucion.png)
   
 </details>
 
