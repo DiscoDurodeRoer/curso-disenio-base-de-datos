@@ -154,7 +154,7 @@ Otros empleados realizan solo tareas de gestión como la elaboración de las tar
 <details>
   <summary>Solución</summary>
   
-  ![Descripción de la imagen](./ejercicio-4/solucion.png)
+  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-4/solucion.png)
   
 </details>
 
@@ -200,7 +200,7 @@ Para cada movimiento se guardan la jugada y un breve comentario de un experto.
 <details>
   <summary>Solución</summary>
   
-  ![Descripción de la imagen](./ejercicio-5/solucion.png)
+  ![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-5/solucion.png)
   
 </details>
 
