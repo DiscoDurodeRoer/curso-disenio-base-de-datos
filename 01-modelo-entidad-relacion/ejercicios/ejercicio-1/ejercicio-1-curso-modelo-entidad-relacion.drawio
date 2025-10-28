@@ -571,10 +571,7 @@
         <mxCell id="h5iw6vHmCiw72O9xtH7j-287" value="Resultado final:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880.63" y="2236" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o4CUFiM8ImX0yRowo5gB-1" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1076.88" y="600" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4CUFiM8ImX0yRowo5gB-2" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="o4CUFiM8ImX0yRowo5gB-2" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1042.19" y="2546" width="50" height="30" as="geometry" />
         </mxCell>
       </root>

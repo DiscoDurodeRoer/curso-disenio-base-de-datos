@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1195" dy="-1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="804" dy="-716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
         <mxCell id="6c7sCgYRVjjSwfdsdxJ6-26" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="407.5" y="2750" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6c7sCgYRVjjSwfdsdxJ6-27" value="(1:1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="6c7sCgYRVjjSwfdsdxJ6-27" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="272.5" y="2750" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6c7sCgYRVjjSwfdsdxJ6-28" value="1:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -241,7 +241,7 @@
         <mxCell id="6c7sCgYRVjjSwfdsdxJ6-69" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Cada empleado pertenece a un departamento y hay varios empleados en un departamento.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="2850" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Irom5ZlzBivFX7Yw5V_5-1" value="De los departamentos, queremos saber su codigo y su nombre." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Irom5ZlzBivFX7Yw5V_5-1" value="De los departamentos, queremos saber su codigo y su nombre." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="2610" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
