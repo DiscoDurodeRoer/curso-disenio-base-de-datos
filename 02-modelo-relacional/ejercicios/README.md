@@ -3,20 +3,19 @@
 
 # Ejercicio 1
 
-![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-1/solucion.png)
-
+![Descripción de la imagen](../../01-modelo-entidad-relacion/ejercicios/ejercicio-1/solucion.png)
 
 <details>
   <summary>Solución en formato tabla</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-1/solucion-tabla.png)
+  ![Descripción de la imagen](./ejercicio-1/solucion-tabla.png)
   
 </details>
 
 <details>
   <summary>Solución en formato grafica</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-1/solucion-grafica.png)
+  ![Descripción de la imagen](./ejercicio-1/solucion-grafica.png)
   
 </details>
 
@@ -24,19 +23,19 @@
 
 # Ejercicio 2
 
-![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-2/solucion.png)
+![Descripción de la imagen](../../01-modelo-entidad-relacion/ejercicios/ejercicio-2/solucion.png)
 
 <details>
   <summary>Solución en formato tabla</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-2/solucion-tabla.png)
+  ![Descripción de la imagen](./ejercicio-2/solucion-tabla.png)
   
 </details>
 
 <details>
   <summary>Solución en formato grafica</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-2/solucion-grafica.png)
+  ![Descripción de la imagen](./ejercicio-2/solucion-grafica.png)
   
 </details>
 
@@ -44,19 +43,19 @@
 
 # Ejercicio 3
 
-![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-3/solucion.png)
+![Descripción de la imagen](../../01-modelo-entidad-relacion/ejercicios/ejercicio-3/solucion.png)
 
 <details>
   <summary>Solución en formato tabla</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-3/solucion-tabla.png)
+  ![Descripción de la imagen](./ejercicio-3/solucion-tabla.png)
   
 </details>
 
 <details>
   <summary>Solución en formato grafica</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-3/solucion-grafica.png)
+  ![Descripción de la imagen](./ejercicio-3/solucion-grafica.png)
   
 </details>
 
@@ -64,19 +63,19 @@
 
 # Ejercicio 4
 
-![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-4/solucion.png)
+![Descripción de la imagen](../../01-modelo-entidad-relacion/ejercicios/ejercicio-4/solucion.png)
 
 <details>
   <summary>Solución en formato tabla</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-4/solucion-tabla.png)
+  ![Descripción de la imagen](./ejercicio-4/solucion-tabla.png)
   
 </details>
 
 <details>
   <summary>Solución en formato grafica</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-4/solucion-grafica.png)
+  ![Descripción de la imagen](./ejercicio-4/solucion-grafica.png)
   
 </details>
 
@@ -84,19 +83,19 @@
 
 # Ejercicio 5
 
-![Descripción de la imagen](./01-modelo-entidad-relacion/ejercicios/ejercicio-5/solucion.png)
+![Descripción de la imagen](../../01-modelo-entidad-relacion/ejercicios/ejercicio-5/solucion.png)
 
 <details>
   <summary>Solución en formato tabla</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-5/solucion-tabla.png)
+  ![Descripción de la imagen](./ejercicio-5/solucion-tabla.png)
   
 </details>
 
 <details>
   <summary>Solución en formato grafica</summary>
   
-  ![Descripción de la imagen](./02-modelo-relacional/ejercicios/ejercicio-5/solucion-grafica.png)
+  ![Descripción de la imagen](./ejercicio-5/solucion-grafica.png)
   
 </details>
 
